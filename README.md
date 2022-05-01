@@ -1,5 +1,3 @@
-![I am GitHub Readme Generator's creator](https://previews.123rf.com/images/wrightstudio/wrightstudio1812/wrightstudio181200053/116101330-data-science-analysis-internet-and-technology-concept-concept-banner-and-infographic-on-virtual-scre.jpg)
-
 ### Hi there 👋
 
 # Programming Languages
@@ -34,6 +32,6 @@
 
 # GitHub Stats
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldanajd)](https://github.com/anuraghazra/github-readme-stats)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldanajd&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldanajd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldanajd&theme=merko)]
