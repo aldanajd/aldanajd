@@ -26,7 +26,7 @@
 
 # Contact:
 
-[<img src='http://fonts.gstatic.com/s/i/productlogos/gmail_round_2020q4/v1/web-96dp/logo_gmail_round_2020q4_color_2x_web_96dp.png' width="40" height='40'>](https://mail.google.com/mail/?view=cm&source=mailto&to=aldanajorgedaniel@gmail.com) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png' width="40" height='40'>](https://www.linkedin.com/in/jorge-aldana/) [<img src='https://www.svgrepo.com/show/331368/discord-v2.svg' width="40" height='40'>](https://discordapp.com/users/Daniel.A#6744) Daniel.A#6744 
+[<img src='http://fonts.gstatic.com/s/i/productlogos/gmail_round_2020q4/v1/web-96dp/logo_gmail_round_2020q4_color_2x_web_96dp.png' width="40" height='40'>](https://mail.google.com/mail/?view=cm&source=mailto&to=aldanajorgedaniel@gmail.com) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png' width="40" height='40'>](https://www.linkedin.com/in/jorge-aldana-1126a2223/) [<img src='https://www.svgrepo.com/show/331368/discord-v2.svg' width="40" height='40'>](https://discordapp.com/users/Daniel.A#6744) Daniel.A#6744 
 
 # GitHub Stats
 
