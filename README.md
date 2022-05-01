@@ -12,9 +12,9 @@
 
 # Spoken Languages
 
-* Spanish
-* English
-* Arabic
+* 🇻🇪 Spanish
+* 🇺🇸 English
+* 🇸🇦 Arabic
 
 # Interests
 
