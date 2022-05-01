@@ -4,11 +4,13 @@
 
 # Programming Languages
 
-* Python
-* R
-* SQL
-* JSON
-* HTML
+
+
+* <img src='https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png' width="25" height='25'> Python
+* <img src='https://www.r-project.org/logo/Rlogo.png' width="25" height='25'> R
+* <img src='https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png' width="25" height='25'> SQL
+* <img src='https://pics.freeicons.io/uploads/icons/png/12279380501536080150-512.png' width="25" height='25'> JSON
+* <img src='https://www.vhv.rs/dpng/d/127-1270973_thumb-image-icon-html-css-png-transparent-png.png' width="25" height='25'> HTML/CSS
 
 # Spoken Languages
 
