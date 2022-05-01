@@ -13,9 +13,9 @@
 # Spoken Languages
 
 
-* <img src='https://cdn.britannica.com/04/4904-004-EBEFDE35/Flag-Venezuela.jpg' width="30" height='30'> Spanish
-* <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png' width="30" height='30'> English
-* <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1024px-Flag_of_Saudi_Arabia.svg.png' width="30" height='30'> Arabic
+* <img src='https://cdn.britannica.com/04/4904-004-EBEFDE35/Flag-Venezuela.jpg' width="40" height='40'> Spanish
+* <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png' width="40" height='40'> English
+* <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1024px-Flag_of_Saudi_Arabia.svg.png' width="40" height='40'> Arabic
 
 # Interests
 
@@ -32,10 +32,10 @@
 
 
 
-* [<img src='http://fonts.gstatic.com/s/i/productlogos/gmail_round_2020q4/v1/web-96dp/logo_gmail_round_2020q4_color_2x_web_96dp.png' alt='linkedin' height='40'>](aldanajorgedaniel@gmail.com)  
+* [<img src='http://fonts.gstatic.com/s/i/productlogos/gmail_round_2020q4/v1/web-96dp/logo_gmail_round_2020q4_color_2x_web_96dp.png' alt='linkedin' width="40" height='40'>](aldanajorgedaniel@gmail.com)  
 
 
-* [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-aldana/)  
+* [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-aldana/)  
 
 # GitHub Stats
 
