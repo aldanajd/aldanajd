@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Languages
+
+# Interests
+
+# Social Media
+
+# GitHub Stats
