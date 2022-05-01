@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 # Interests
 
+* Practicing Sports: Running, Gym, Basketball and Futsal
+* Experiencing new cultures
+* Video Games: Shooters
 * Teaching and learning
 * Machine learning
 * Business
-* Practicing Sports: Running, Gym, Basketball and Futsal
-* Video Games: Shooters
-* Art
 * Animals
-* Meeting new cultures
+* Art
 
 # Social Media
 
