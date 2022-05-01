@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 * Animals
 * Art
 
-# Social Media
+# Contact:
+
+aldanajorgedaniel@gmail.com
+![](https://www.linkedin.com/in/jorge-aldana)
 
 # GitHub Stats
