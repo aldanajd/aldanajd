@@ -38,7 +38,7 @@
 
 * [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-aldana/)  
 
-* [<img src='https://www.svgrepo.com/show/331368/discord-v2.svg' width="40" height='40'>](https://discordapp.com/users/Daniel.A#6744) ID: Daniel.A#6744 
+* [<img src='https://www.svgrepo.com/show/331368/discord-v2.svg' width="40" height='40'>](https://discordapp.com/users/Daniel.A#6744) - ID: Daniel.A#6744 
 
 
 # GitHub Stats
