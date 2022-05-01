@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 # Interests
 
 * Teaching and learning
+* Machine learning
+* Business
 * Practicing Sports: Running, Gym, Basketball and Futsal
 * Video Games: Shooters
 
