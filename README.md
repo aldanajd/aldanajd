@@ -30,8 +30,10 @@
 # Contact:
 
 * aldanajorgedaniel@gmail.com
-* [Hola](https://www.linkedin.com/in/jorge-aldana)
+* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-aldana/)  
 
 # GitHub Stats
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldanajd)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldanajd)](https://github.com/anuraghazra/github-readme-stats)
