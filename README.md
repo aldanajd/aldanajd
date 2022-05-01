@@ -12,7 +12,6 @@
 * <img src='https://pics.freeicons.io/uploads/icons/png/12279380501536080150-512.png' width="25" height='25'> JSON
 * <img src='https://www.vhv.rs/dpng/d/127-1270973_thumb-image-icon-html-css-png-transparent-png.png' width="25" height='25'> HTML/CSS
 * <img src='https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png' width="25" height='25'> CSS
-* 
 
 # Spoken Languages
 
@@ -34,12 +33,13 @@
 
 # Contact:
 
-
-
 * [<img src='http://fonts.gstatic.com/s/i/productlogos/gmail_round_2020q4/v1/web-96dp/logo_gmail_round_2020q4_color_2x_web_96dp.png' alt='linkedin' width="40" height='40'>](aldanajorgedaniel@gmail.com)  
 
 
 * [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-aldana/)  
+
+* [<img src='https://www.svgrepo.com/show/331368/discord-v2.svg' width="40" height='40'>](https://discordapp.com/users/Daniel.A#6744) ID: Daniel.A#6744 
+
 
 # GitHub Stats
 
