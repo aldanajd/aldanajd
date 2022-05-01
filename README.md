@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 # Contact:
 
 aldanajorgedaniel@gmail.com
-![](https://www.linkedin.com/in/jorge-aldana)
+![Hola](https://www.linkedin.com/in/jorge-aldana)
 
 # GitHub Stats
