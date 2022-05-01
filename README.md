@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 # Interests
 
+* Teaching and learning
+* Practicing Sports: Running, Gym, Basketball and Futsal
+* Video Games: Shooters
+
 # Social Media
 
 # GitHub Stats
