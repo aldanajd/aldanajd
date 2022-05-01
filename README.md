@@ -1,21 +1,20 @@
+![I am GitHub Readme Generator's creator](https://previews.123rf.com/images/wrightstudio/wrightstudio1812/wrightstudio181200053/116101330-data-science-analysis-internet-and-technology-concept-concept-banner-and-infographic-on-virtual-scre.jpg)
+
 ### Hi there 👋
 
-<!--
-**aldanajd/aldanajd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Programming Languages
 
-Here are some ideas to get you started:
+* Python
+* R
+* SQL
+* Json
+* HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Spoken Languages
 
-# Languages
+* Spanish
+* English
+* Arabic
 
 # Interests
 
@@ -30,7 +29,9 @@ Here are some ideas to get you started:
 
 # Contact:
 
-aldanajorgedaniel@gmail.com
-![Hola](https://www.linkedin.com/in/jorge-aldana)
+* aldanajorgedaniel@gmail.com
+* [Hola](https://www.linkedin.com/in/jorge-aldana)
 
 # GitHub Stats
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldanajd)](https://github.com/anuraghazra/github-readme-stats)
