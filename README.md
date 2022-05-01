@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 * Business
 * Practicing Sports: Running, Gym, Basketball and Futsal
 * Video Games: Shooters
+* Art
+* Animals
+* Meeting new cultures
 
 # Social Media
 
