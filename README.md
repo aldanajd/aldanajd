@@ -1,6 +1,6 @@
 <img src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg" width="1040" height="250">
 
-# Programming Languages
+# Programming Language
 
 <img src='https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png' width="40" height='40'><img src='https://www.r-project.org/logo/Rlogo.png' width="40" height='40'>
 <img src='https://e7.pngegg.com/pngimages/756/673/png-clipart-database-management-system-computer-icons-microsoft-sql-server-corresponding-miscellaneous-angle-thumbnail.png' width="40" height='40'>
