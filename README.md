@@ -1,4 +1,8 @@
-<img src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg" width="1040" height="250">
+<img src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg" width="1040" height="250
+  
+# Intro
+
+Data Scientist Engineer
 
 # Programming Languages
 
@@ -12,17 +16,6 @@
 
 <img src='https://cdn.britannica.com/04/4904-004-EBEFDE35/Flag-Venezuela.jpg' width="30" height='30'> <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png' width="30" height='30'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1024px-Flag_of_Saudi_Arabia.svg.png' width="30" height='30'>
-
-# Interests
-
-* Practicing Sports: Running, Gym, Basketball and Futsal
-* Experiencing new cultures
-* Video Games: Shooters
-* Teaching and learning
-* Machine learning
-* Business
-* Animals
-* Art
 
 # Contact:
 
