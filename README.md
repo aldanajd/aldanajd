@@ -15,7 +15,6 @@ Data Scientist Engineer
 # Spoken Languages
 
 <img src='https://cdn.britannica.com/04/4904-004-EBEFDE35/Flag-Venezuela.jpg' width="30" height='30'> <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png' width="30" height='30'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1024px-Flag_of_Saudi_Arabia.svg.png' width="30" height='30'>
 
 # Contact:
 
